@@ -10,7 +10,7 @@
 
 ## Overview
 
-This repo contains my personal solutions for coding challenges from LeetCode and NeetCode, organized into two folders:
+This repository contains my personal solutions for coding challenges from LeetCode and NeetCode, organized into two folders:
 
 1. LeetCode (`/leetcode`)
 
