@@ -1,4 +1,4 @@
-# LeetCode & NeetCode Solutions
+# LeetCode
 
 
 ## Table of Contents
